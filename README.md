@@ -1,4 +1,4 @@
-# Car Price Prediction Using Machine Learning
+# Car Price Prediction Using Linear Regression
 
 ## Problem Statement
 The objective of this project is to predict the prices of used cars based on various features such as **model**, **year**, **mileage**, **fuel type**, **transmission**, and **engine size** using supervised machine learning techniques.
